@@ -1,17 +1,19 @@
 import logo from '../img/logo.png';
 const navigate = () => {
     return (
-        <div className='absolute text-white flex items-center justify-between w-full py-3 pl-40 pr-20 gap-x-20 bg-[#131718] font-inter'>
+        <div className='absolute text-white flex items-center justify-between w-full py-3 pl-30 pr-20 gap-x-20 bg-[#131718] font-inter'>
             <div>
-                <img src={logo} alt="" srcset="" />
+               <a href="">
+               <img src={logo} alt="" srcset="" />
+               </a>
             </div>
             <div className='flex gap-x-20 items-center'>
                 <ul className='flex gap-x-10'>
-                    <li>About</li>
-                    <li>Partners</li>  
-                    <li>Blog</li>
-                    <li>Event</li>
-                    <li>Teams</li>
+                    <li><a href="">About</a></li>
+                    <li><a href="">Partners</a></li>  
+                    <li><a href="">Blog</a></li>
+                    <li><a href="">Event</a></li>
+                    <li><a href="">Teams</a></li>
                 </ul>
                 <a href="" className='border py-2.5 px-5 rounded-3xl text-[#FEFEFE] font-semibold border border-[rgba(255,255,255,0.40)]
                 border-[color(display-p3_1_1_1/0.40)]
