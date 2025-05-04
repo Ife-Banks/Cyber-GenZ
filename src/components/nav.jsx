@@ -8,7 +8,7 @@ const navigate = () => {
                </a>
             </div>
             <div className='flex items-center w-[70%] justify-between'>
-                <ul className='flex gap-x-10'>
+                <ul className='flex gap-x-12'>
                     <li><a href="">About</a></li>
                     <li><a href="">Partners</a></li>  
                     <li><a href="">Blog</a></li>
