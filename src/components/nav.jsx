@@ -1,7 +1,7 @@
 import logo from '../img/logo.png';
 const navigate = () => {
     return (
-        <div className='absolute text-white flex items-center justify-between w-full py-3 pl-30 pr-20 gap-x-20 bg-[#131718] font-inter'>
+        <div className='absolute text-white flex items-center justify-between w-full py-3 pl-30 pr-20 gap-x-20 bg-[#131718] font-redHat'>
             <div className=' w-fit'>
                <a href="">
                <img src={logo} alt="" srcset="" />
