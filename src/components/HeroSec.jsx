@@ -76,18 +76,17 @@ const Hero = () => {
                 <h1 className='font-bold  text-3xl/12 sm:max-md:text-4xl/15 md:text-5xl/18 text-center p-2 font-redHat text-shadow-sm text-shadow-white'>Empowering the Next Generation of Cyber Defenders to Protect, Innovate, and Lead in a Secure Digital World.</h1>
                 <p className='text-xs w-fit text-center text-[#6B7275] text-[color(display-p3_0.424_0.4469_0.4583)] font-inter'>Shaping Tomorrow’s Cybersecurity Leaders with Cutting-Edge Skills and Unwavering Commitment.
                 </p>
-                <div className='flex gap-x-5 mt-3'>
-                    <div className=''>
-                        <a href="" className='border py-2.5 px-5 sm:max-md:px-1 rounded-3xl w-fit 
-                sm:max-md:w-[30%] sm:max-md:text-xs md:text-sm text-[#FEFEFE] font-semibold border border-[rgba(255,255,255,0.40)]
+                <div className='flex gap-x-6 mt-3 w-100 justify-center'>
+                    <div className='py-3 px-6 rounded-3xl border border-[rgba(255,255,255,0.40)]
                     border-[color(display-p3_1_1_1/0.40)]
                     bg-[linear-gradient(180deg,_#4343F1_0%,_#00F_100%)]
-                    bg-[linear-gradient(180deg,_color(display-p3_0.2611_0.2611_0.9083)_0%,_color(display-p3_0_0_1)_100%)] flex justify-center'>
+                    bg-[linear-gradient(180deg,_color(display-p3_0.2611_0.2611_0.9083)_0%,_color(display-p3_0_0_1)_100%)] sm:max-md:px-1  w-fit sm:max-md:w-[30%]'>
+                        <a href="" className='sm:max-md:px-1 w-fit sm:max-md:w-[30%] sm:max-md:text-xs md:text-sm text-[#FEFEFE] font-semibold flex justify-center'>
                         Join Community
                         </a>
                     </div>
-                    <div>
-                        <a href="" className='border py-2.5 px-5 sm:max-md:px-1 rounded-3xl w-fit sm:max-md:w-[30%] sm:max-md:text-xs md:text-sm text-[#FEFEFE] font-semibold border border-[#FEFEFE]   flex justify-center'>
+                    <div className='py-3 px-6 rounded-3xl  border border-[#FEFEFE] sm:max-md:px-1  w-fit sm:max-md:w-[30%]'>
+                        <a href="" className=' sm:max-md:text-xs md:text-sm text-[#FEFEFE] font-semibold flex justify-center'>
                             Watch a demo
                         </a>
                     </div>
