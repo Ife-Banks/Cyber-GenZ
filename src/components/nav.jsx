@@ -9,10 +9,10 @@ const navigate = () => {
             </div>
             <div className=' flex items-end sm:items-center w-[70%] sm:max-md:justify-evenly md:justify-between flex-col sm:flex-row z-2 gap-x-2 '>
                 <ul className='sm:flex w-100 sm:max-lg:w-[70%] flex-col sm:flex-row hidden h-15'>
-                    <li className=' flex items-center justify-center w-20 hover:bg-[rgba(255,255,255,0.30)] transition duration-300 ease-in-out group'><a href="" className='group-hover:scale-110 transition duration-300 ease-in-out'>About</a></li>
-                    <li className='  flex items-center justify-center w-20 hover:bg-[rgba(255,255,255,0.30)] transition duration-300 ease-in-out group'><a href="" className='group-hover:scale-110 transition duration-300 ease-in-out'>Partners</a></li>  
-                    <li className=' flex items-center justify-center w-20 hover:bg-[rgba(255,255,255,0.30)] transition duration-300 ease-in-out group'><a href="" className='group-hover:scale-110 transition duration-300 ease-in-out'>Blog</a></li>
-                    <li className='flex items-center justify-center w-20 hover:bg-[rgba(255,255,255,0.30)] transition duration-300 ease-in-out group'><a href="" className='group-hover:scale-110 transition duration-300 ease-in-out'>Event</a></li>
+                    <li className=' flex items-center justify-center w-20 hover:bg-[#4343F1]/50 transition duration-300 ease-in-out group'><a href="" className='group-hover:scale-110 transition duration-300 ease-in-out'>About</a></li>
+                    <li className='  flex items-center justify-center w-20 hover:bg-[#4343F1]/50 transition duration-300 ease-in-out group'><a href="" className='group-hover:scale-110 transition duration-300 ease-in-out'>Partners</a></li>  
+                    <li className=' flex items-center justify-center w-20 hover:bg-[#4343F1]/50 transition duration-300 ease-in-out group'><a href="" className='group-hover:scale-110 transition duration-300 ease-in-out'>Blog</a></li>
+                    <li className='flex items-center justify-center w-20 hover:bg-[#4343F1]/50 transition duration-300 ease-in-out group'><a href="" className='group-hover:scale-110 transition duration-300 ease-in-out'>Event</a></li>
                     <li className='flex items-center justify-center w-20 hover:bg-[rgba(255,255,255,0.30)] transition duration-300 ease-in-out group'><a href="" className='group-hover:scale-110 transition duration-300 ease-in-out'>Teams</a></li>
                 </ul>
                 <div className='flex items-center justify-center  rounded-3xl border border-[rgba(255,255,255,0.40)]
