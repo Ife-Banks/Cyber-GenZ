@@ -80,12 +80,12 @@ const Hero = () => {
                     <div className='flex items-center justify-center  rounded-3xl border border-[rgba(255,255,255,0.40)]
                     border-[color(display-p3_1_1_1/0.40)]
                     bg-[linear-gradient(180deg,_#4343F1_0%,_#00F_100%)]
-                    bg-[linear-gradient(180deg,_color(display-p3_0.2611_0.2611_0.9083)_0%,_color(display-p3_0_0_1)_100%)] sm:max-md:px-1  h-13 w-35 lg:w-40'>
+                    bg-[linear-gradient(180deg,_color(display-p3_0.2611_0.2611_0.9083)_0%,_color(display-p3_0_0_1)_100%)] sm:max-md:px-1  h-13 w-40 lg:w-40'>
                         <a href="" className=' sm:max-md:text-xs md:text-sm text-[#FEFEFE] font-semibold flex justify-center'>
                         Join Community
                         </a>
                     </div>
-                    <div className='flex items-center justify-center rounded-3xl  border border-[#FEFEFE] sm:max-md:px-1  h-13 w-30 lg:w-40'>
+                    <div className='flex items-center justify-center rounded-3xl  border border-[#FEFEFE] sm:max-md:px-1  h-13 w-40 lg:w-40'>
                         <a href="" className=' sm:max-md:text-xs md:text-sm text-[#FEFEFE] font-semibold flex justify-center'>
                             Watch a demo
                         </a>
