@@ -73,7 +73,7 @@ const Hero = () => {
             <Navigate/>
             {/* HEroText */}
             <div className='z-1 absolute top-[20%]  lg:top-[22%] md:max-lg::top-[30%] text-white w-[100%] sm:max-lg:w-[90%] lg:w-[63%] flex flex-col gap-y-5 items-center '>
-                <h1 className='font-bold  text-3xl/12 sm:max-md:text-4xl/15 md:text-5xl/18 text-center p-2 font-redHat hover:text-shadow-xs hover:text-shadow-white'>Empowering the Next Generation of Cyber Defenders to Protect, Innovate, and Lead in a Secure Digital World.</h1>
+                <h1 className='font-bold  text-3xl/12 sm:max-md:text-4xl/15 md:text-5xl/18 text-center p-2 font-redHat '>Empowering the Next Generation of Cyber Defenders to Protect, Innovate, and Lead in a Secure Digital World.</h1>
                 <p className='text-xs w-fit text-center text-[#6B7275] text-[color(display-p3_0.424_0.4469_0.4583)] font-inter'>Shaping Tomorrow’s Cybersecurity Leaders with Cutting-Edge Skills and Unwavering Commitment.
                 </p>
                 <div className='flex gap-x-6 justify-center'>
