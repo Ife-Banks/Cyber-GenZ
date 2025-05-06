@@ -73,10 +73,10 @@ const Hero = () => {
             <Navigate/>
             {/* HEroText */}
             <div className='z-1 absolute top-[20%]  lg:top-[22%] md:max-lg::top-[30%] text-white w-[100%] sm:max-lg:w-[90%] lg:w-[63%] flex flex-col gap-y-5 items-center '>
-                <h1 className='font-bold  text-3xl/12 sm:max-md:text-4xl/15 md:text-5xl/18 text-center p-2 font-redHat '>Empowering the Next <span className="after:absolute after:text-xs after:rounded-xl after:py-2 after:w-35 after:text-white after:left-10 after:lg:left-40 after:-top-5 after:rounded-bl-none after:content-['PenetrationTesting'] relative after:bg-[linear-gradient(180deg,_#4343F1_0%,_#00F_100%)] after:bg-[linear-gradient(180deg,_color(display-p3_0.2611_0.2611_0.9083)_0%,_color(display-p3_0_0_1)_100%)] "> Generation</span> of Cyber Defenders to Protect, Innovate, and Lead in a Secure Digital World.</h1>
-                <p className='text-xs w-fit text-center text-[#6B7275] text-[color(display-p3_0.424_0.4469_0.4583)] font-inter'>Shaping Tomorrow’s Cybersecurity Leaders with Cutting-Edge Skills and Unwavering Commitment.
+                <h1 className='font-bold  text-3xl/12 sm:max-md:text-4xl/15 md:text-5xl/18 text-center p-2 font-redHat '>Empowering the Next <span className="after:absolute after:text-xs after:rounded-xl after:py-1 after:lg:py-2 after:w-35 after:text-white after:left-10 after:lg:left-40 after:-top-[40%] after:sm:max-lg:-top-[25%] after:lg:-top-[25%] after:rounded-bl-none after:content-['PenetrationTesting'] relative after:bg-[linear-gradient(180deg,_#4343F1_0%,_#00F_100%)] after:bg-[linear-gradient(180deg,_color(display-p3_0.2611_0.2611_0.9083)_0%,_color(display-p3_0_0_1)_100%)] "> Generation</span> of Cyber Defenders to Protect, Innovate, and Lead in a Secure Digital World.</h1>
+                <p className='text-xs w-fit text-center text-[#6B7275] text-[color(display-p3_0.424_0.4469_0.4583)] font-inter '>Shaping Tomorrow’s Cybersecurity Leaders with Cutting-Edge Skills and Unwavering Commitment.
                 </p>
-                <div className='flex gap-x-6 justify-center'>
+                <div className='flex gap-x-3 lg:gap-x-6 justify-center'>
                     <div className='flex items-center justify-center  rounded-3xl border border-[rgba(255,255,255,0.40)]
                     border-[color(display-p3_1_1_1/0.40)]
                     bg-[linear-gradient(180deg,_#4343F1_0%,_#00F_100%)]
